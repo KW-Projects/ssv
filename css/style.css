@@ -98,6 +98,10 @@ h6 {
   z-index: 997;
 }
 
+#contact{
+  border-top: 3px solid red;
+  border-bottom: 3px solid red;
+}
 #header #logo {
   float: left;
 }
