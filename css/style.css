@@ -24,9 +24,7 @@ a {
   font-size-adjust: inherit;
 }
 
-a:hover,
-a:active,
-a:focus {
+a:hover {
   color: lightgrey;
   outline: none;
   text-decoration: none;
