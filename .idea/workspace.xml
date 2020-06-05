@@ -31,6 +31,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Amazon extension" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kyle\Documents\GitHub\ssv\Products" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -47,7 +52,7 @@
       <workItem from="1583526198915" duration="389000" />
       <workItem from="1584741331341" duration="1070000" />
       <workItem from="1588108968152" duration="318000" />
-      <workItem from="1591324870406" duration="1778000" />
+      <workItem from="1591324870406" duration="2396000" />
     </task>
     <servers />
   </component>
