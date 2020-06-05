@@ -28,7 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Amazon extension" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
@@ -47,7 +47,7 @@
       <workItem from="1583526198915" duration="389000" />
       <workItem from="1584741331341" duration="1070000" />
       <workItem from="1588108968152" duration="318000" />
-      <workItem from="1591324870406" duration="993000" />
+      <workItem from="1591324870406" duration="1778000" />
     </task>
     <servers />
   </component>
@@ -59,10 +59,10 @@
       <screen x="0" y="0" width="1440" height="884" />
     </state>
     <state x="313" y="103" key="#Notifications/0.0.1440.884@0.0.1440.884" timestamp="1583361844060" />
-    <state x="501" y="199" key="FileChooserDialogImpl" timestamp="1583361483133">
+    <state x="501" y="199" key="FileChooserDialogImpl" timestamp="1591326211189">
       <screen x="0" y="0" width="1440" height="884" />
     </state>
-    <state x="501" y="199" key="FileChooserDialogImpl/0.0.1440.884@0.0.1440.884" timestamp="1583361483133" />
+    <state x="501" y="199" key="FileChooserDialogImpl/0.0.1440.884@0.0.1440.884" timestamp="1591326211189" />
     <state x="224" y="74" key="SettingsEditor" timestamp="1583361631697">
       <screen x="0" y="0" width="1440" height="884" />
     </state>
